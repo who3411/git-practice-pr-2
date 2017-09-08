@@ -1,3 +1,4 @@
 # GitHub勉強会
 
-## Create subA branch
+## Fix subA branch　
+
